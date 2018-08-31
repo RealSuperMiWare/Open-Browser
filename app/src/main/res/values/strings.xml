@@ -1,0 +1,6 @@
+<resources>
+    <string name="nothing_entered"></string>
+    <string name="app_name">Open Browser</string>
+    <string name="enter_Url_Hint">Enter Site URL</string>
+    <string name="send_Url_Button"></string>
+</resources>
